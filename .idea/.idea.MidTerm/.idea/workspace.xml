@@ -12,36 +12,77 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scrHiding.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scrHiding.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            <state relative-caret-position="238">
+              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="37" />
               <folding>
-                <marker date="1539042238254" expanded="false" signature="6:44" ph="..." />
-                <marker date="1539042238254" expanded="true" signature="85:713" ph="{...}" />
-                <marker date="1539042238254" expanded="true" signature="89:254" ph="/* static bool hiding; ... */" />
-                <marker date="1539042238254" expanded="true" signature="710:711" ph="{...}" />
+                <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+                <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+                <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+                <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+                <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+                <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+                <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+                <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+                <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scrEnemyDetection.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scrNextRoom.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrNextRoom.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1539665447032" expanded="false" signature="6:79" ph="..." />
+                <marker date="1539665447032" expanded="true" signature="122:488" ph="{...}" />
+                <marker date="1539665447032" expanded="true" signature="262:268" ph="{...}" />
+                <marker date="1539665447032" expanded="true" signature="323:328" ph="{...}" />
+                <marker date="1539665447032" expanded="true" signature="367:486" ph="{...}" />
+                <marker date="1539665447032" expanded="true" signature="408:483" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrEnemyDetection.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+            <state relative-caret-position="351">
+              <caret line="58" column="40" lean-forward="false" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
               <folding>
-                <marker date="1539041379475" expanded="false" signature="6:44" ph="..." />
-                <marker date="1539041379475" expanded="true" signature="93:1299" ph="{...}" />
-                <marker date="1539041379475" expanded="true" signature="143:149" ph="{...}" />
-                <marker date="1539041379475" expanded="true" signature="203:1297" ph="{...}" />
-                <marker date="1539041379475" expanded="true" signature="207:343" ph="/* STEP 1: define a Ray... ... */" />
-                <marker date="1539041379475" expanded="true" signature="850:1140" ph="{...}" />
-                <marker date="1539041379475" expanded="true" signature="953:1080" ph="{...}" />
-                <marker date="1539041379475" expanded="true" signature="1088:1136" ph="{...}" />
-                <marker date="1539041379475" expanded="true" signature="1150:1294" ph="/* else ... */" />
+                <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+                <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+                <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+                <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+                <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+                <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrMovement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1538263075130" expanded="false" signature="6:44" ph="..." />
+                <marker date="1538263075130" expanded="true" signature="87:487" ph="{...}" />
+                <marker date="1538263075130" expanded="true" signature="159:211" ph="{...}" />
+                <marker date="1538263075130" expanded="true" signature="236:485" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,9 +91,14 @@
       <file leaf-file-name="scrFaceDirection.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="272">
               <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding />
+              <folding>
+                <marker date="1539038578216" expanded="false" signature="6:44" ph="..." />
+                <marker date="1539038578216" expanded="true" signature="92:323" ph="{...}" />
+                <marker date="1539038578216" expanded="true" signature="138:266" ph="{...}" />
+                <marker date="1539038578216" expanded="true" signature="286:321" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,17 +106,18 @@
       <file leaf-file-name="scrEnemyMovement.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="510">
+              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
               <folding>
-                <marker date="1539037614386" expanded="false" signature="6:44" ph="..." />
-                <marker date="1539037614386" expanded="true" signature="92:1282" ph="{...}" />
-                <marker date="1539037614386" expanded="true" signature="184:1280" ph="{...}" />
-                <marker date="1539037614386" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
-                <marker date="1539037614386" expanded="true" signature="831:1119" ph="{...}" />
-                <marker date="1539037614386" expanded="true" signature="934:1061" ph="{...}" />
-                <marker date="1539037614386" expanded="true" signature="1069:1115" ph="{...}" />
-                <marker date="1539037614386" expanded="true" signature="1123:1209" ph="/* else ... */" />
+                <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+                <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+                <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+                <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+                <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+                <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+                <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+                <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+                <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
               </folding>
             </state>
           </provider>
@@ -79,14 +126,16 @@
       <file leaf-file-name="scrRestart.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="323">
+              <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
               <folding>
-                <marker date="1538508688866" expanded="false" signature="6:44" ph="..." />
-                <marker date="1538508688866" expanded="true" signature="86:294" ph="{...}" />
-                <marker date="1538508688866" expanded="true" signature="136:142" ph="{...}" />
-                <marker date="1538508688866" expanded="true" signature="197:292" ph="{...}" />
-                <marker date="1538508688866" expanded="true" signature="233:289" ph="{...}" />
+                <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+                <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+                <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+                <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+                <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+                <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+                <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -100,17 +149,22 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/scrNextRoom.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/scrMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scrMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/scrEnemyMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs" />
-        <option value="$PROJECT_DIR$/Assets/scrEnemyDetection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/scrRestart.cs" />
+        <option value="$PROJECT_DIR$/Assets/scrEnemyMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/scrHiding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/scrNextRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/scrEnemyDetection.cs" />
       </list>
     </option>
   </component>
@@ -121,9 +175,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="width" value="1278" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -149,7 +205,7 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Loading solution..." />
+              <option name="myItemId" value="MidTerm (2 projects)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -157,7 +213,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,11 +316,15 @@
       <workItem from="1538950773294" duration="3857000" />
       <workItem from="1538959414474" duration="880000" />
       <workItem from="1539032527217" duration="4830000" />
+      <workItem from="1539229624429" duration="1708000" />
+      <workItem from="1539628710689" duration="1776000" />
+      <workItem from="1539631401125" duration="2076000" />
+      <workItem from="1539663658361" duration="1894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15638000" />
+    <option name="totallyTimeSpent" value="23092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,7 +336,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1278" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -287,7 +346,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -330,19 +389,353 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="680">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
-            <marker date="1539042238254" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539042238254" expanded="true" signature="85:713" ph="{...}" />
-            <marker date="1539042238254" expanded="true" signature="89:254" ph="/* static bool hiding; ... */" />
-            <marker date="1539042238254" expanded="true" signature="710:711" ph="{...}" />
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1538263075130" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538263075130" expanded="true" signature="87:487" ph="{...}" />
+            <marker date="1538263075130" expanded="true" signature="159:211" ph="{...}" />
+            <marker date="1538263075130" expanded="true" signature="236:485" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1539038578216" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539038578216" expanded="true" signature="92:323" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="138:266" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="286:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="80" lean-forward="false" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+          <folding>
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1539038578216" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539038578216" expanded="true" signature="92:323" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="138:266" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="286:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1539038578216" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539038578216" expanded="true" signature="92:323" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="138:266" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="286:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1539038578216" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539038578216" expanded="true" signature="92:323" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="138:266" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="286:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
           </folding>
         </state>
       </provider>
@@ -352,11 +745,47 @@
         <state relative-caret-position="85">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <marker date="1538508688866" expanded="false" signature="6:44" ph="..." />
-            <marker date="1538508688866" expanded="true" signature="86:294" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="136:142" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="197:292" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="233:289" ph="{...}" />
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -366,15 +795,19 @@
         <state relative-caret-position="731">
           <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
           <folding>
-            <marker date="1539041379475" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539041379475" expanded="true" signature="93:1299" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="143:149" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="203:1297" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="207:343" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539041379475" expanded="true" signature="850:1140" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="953:1080" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1088:1136" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1150:1294" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -384,14 +817,15 @@
         <state relative-caret-position="51">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <marker date="1539037614386" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539037614386" expanded="true" signature="92:1282" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="184:1280" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539037614386" expanded="true" signature="831:1119" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="934:1061" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1069:1115" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1123:1209" ph="/* else ... */" />
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
           </folding>
         </state>
       </provider>
@@ -401,10 +835,15 @@
         <state relative-caret-position="459">
           <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <marker date="1539042238254" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539042238254" expanded="true" signature="85:713" ph="{...}" />
-            <marker date="1539042238254" expanded="true" signature="89:254" ph="/* static bool hiding; ... */" />
-            <marker date="1539042238254" expanded="true" signature="710:711" ph="{...}" />
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -414,11 +853,13 @@
         <state relative-caret-position="85">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <marker date="1538508688866" expanded="false" signature="6:44" ph="..." />
-            <marker date="1538508688866" expanded="true" signature="86:294" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="136:142" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="197:292" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="233:289" ph="{...}" />
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -428,14 +869,15 @@
         <state relative-caret-position="629">
           <caret line="38" column="52" lean-forward="false" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
           <folding>
-            <marker date="1539037614386" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539037614386" expanded="true" signature="92:1282" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="184:1280" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539037614386" expanded="true" signature="831:1119" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="934:1061" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1069:1115" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1123:1209" ph="/* else ... */" />
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
           </folding>
         </state>
       </provider>
@@ -445,15 +887,19 @@
         <state relative-caret-position="255">
           <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding>
-            <marker date="1539041379475" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539041379475" expanded="true" signature="93:1299" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="143:149" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="203:1297" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="207:343" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539041379475" expanded="true" signature="850:1140" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="953:1080" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1088:1136" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1150:1294" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -463,10 +909,15 @@
         <state relative-caret-position="459">
           <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <marker date="1539042238254" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539042238254" expanded="true" signature="85:713" ph="{...}" />
-            <marker date="1539042238254" expanded="true" signature="89:254" ph="/* static bool hiding; ... */" />
-            <marker date="1539042238254" expanded="true" signature="710:711" ph="{...}" />
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -476,15 +927,19 @@
         <state relative-caret-position="255">
           <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding>
-            <marker date="1539041379475" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539041379475" expanded="true" signature="93:1299" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="143:149" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="203:1297" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="207:343" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539041379475" expanded="true" signature="850:1140" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="953:1080" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1088:1136" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1150:1294" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -494,11 +949,13 @@
         <state relative-caret-position="85">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
-            <marker date="1538508688866" expanded="false" signature="6:44" ph="..." />
-            <marker date="1538508688866" expanded="true" signature="86:294" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="136:142" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="197:292" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="233:289" ph="{...}" />
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -508,14 +965,15 @@
         <state relative-caret-position="255">
           <caret line="16" column="48" lean-forward="true" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
           <folding>
-            <marker date="1539037614386" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539037614386" expanded="true" signature="92:1282" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="184:1280" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539037614386" expanded="true" signature="831:1119" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="934:1061" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1069:1115" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1123:1209" ph="/* else ... */" />
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
           </folding>
         </state>
       </provider>
@@ -523,70 +981,115 @@
     <entry file="file://$PROJECT_DIR$/Assets/scrMovement.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrRestart.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="323">
+          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
           <folding>
-            <marker date="1538508688866" expanded="false" signature="6:44" ph="..." />
-            <marker date="1538508688866" expanded="true" signature="86:294" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="136:142" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="197:292" ph="{...}" />
-            <marker date="1538508688866" expanded="true" signature="233:289" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <marker date="1539037614386" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539037614386" expanded="true" signature="92:1282" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="184:1280" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539037614386" expanded="true" signature="831:1119" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="934:1061" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1069:1115" ph="{...}" />
-            <marker date="1539037614386" expanded="true" signature="1123:1209" ph="/* else ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-          <folding>
-            <marker date="1539041379475" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539041379475" expanded="true" signature="93:1299" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="143:149" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="203:1297" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="207:343" ph="/* STEP 1: define a Ray... ... */" />
-            <marker date="1539041379475" expanded="true" signature="850:1140" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="953:1080" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1088:1136" ph="{...}" />
-            <marker date="1539041379475" expanded="true" signature="1150:1294" ph="/* else ... */" />
+            <marker date="1539231744876" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539231744876" expanded="true" signature="121:595" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="194:267" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="322:593" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="358:432" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="467:590" ph="{...}" />
+            <marker date="1539231744876" expanded="true" signature="532:586" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrFaceDirection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="272">
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1539038578216" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539038578216" expanded="true" signature="92:323" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="138:266" ph="{...}" />
+            <marker date="1539038578216" expanded="true" signature="286:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <marker date="1539632468802" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632468802" expanded="true" signature="92:1286" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="184:1284" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="188:324" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539632468802" expanded="true" signature="831:1123" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="934:1065" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="944:1060" ph="/* transform.Rotate(0f, -180f, 0f); ... */" />
+            <marker date="1539632468802" expanded="true" signature="1073:1119" ph="{...}" />
+            <marker date="1539632468802" expanded="true" signature="1127:1213" ph="/* else ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1538263075130" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538263075130" expanded="true" signature="87:487" ph="{...}" />
+            <marker date="1538263075130" expanded="true" signature="159:211" ph="{...}" />
+            <marker date="1538263075130" expanded="true" signature="236:485" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrHiding.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        <state relative-caret-position="238">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="37" />
           <folding>
-            <marker date="1539042238254" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539042238254" expanded="true" signature="85:713" ph="{...}" />
-            <marker date="1539042238254" expanded="true" signature="89:254" ph="/* static bool hiding; ... */" />
-            <marker date="1539042238254" expanded="true" signature="710:711" ph="{...}" />
+            <marker date="1539632877262" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539632877262" expanded="true" signature="85:1038" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="89:225" ph="/* static bool hiding; ... */" />
+            <marker date="1539632877262" expanded="true" signature="368:445" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="499:1036" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="573:646" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="685:930" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="774:820" ph="{...}" />
+            <marker date="1539632877262" expanded="true" signature="1004:1025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/scrNextRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1539665447032" expanded="false" signature="6:79" ph="..." />
+            <marker date="1539665447032" expanded="true" signature="122:488" ph="{...}" />
+            <marker date="1539665447032" expanded="true" signature="262:268" ph="{...}" />
+            <marker date="1539665447032" expanded="true" signature="323:328" ph="{...}" />
+            <marker date="1539665447032" expanded="true" signature="367:486" ph="{...}" />
+            <marker date="1539665447032" expanded="true" signature="408:483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scrEnemyDetection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="58" column="40" lean-forward="false" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+          <folding>
+            <marker date="1539665738571" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539665738571" expanded="true" signature="93:1912" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="143:354" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="147:351" ph="/* Access hiding block's variables so we can know if the player is hiding ... */" />
+            <marker date="1539665738571" expanded="true" signature="408:1767" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="618:754" ph="/* STEP 1: define a Ray... ... */" />
+            <marker date="1539665738571" expanded="true" signature="1261:1610" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1364:1550" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1413:1545" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1558:1606" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1620:1764" ph="/* else ... */" />
+            <marker date="1539665738571" expanded="true" signature="1805:1908" ph="{...}" />
+            <marker date="1539665738571" expanded="true" signature="1846:1905" ph="{...}" />
           </folding>
         </state>
       </provider>
